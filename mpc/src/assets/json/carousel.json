@@ -1,0 +1,19 @@
+{
+    "carousel":[
+        {
+            "cid":1,
+            "pic":"../img/carousel_1.jpg",
+            "cname":"早春系列"
+        },
+        {
+            "cid":2,
+            "pic":"../img/carousel_2.jpg",
+            "cname":"新年狂欢"
+        },
+        {
+            "cid":1,
+            "pic":"../img/carousel_1.jpg",
+            "cname":"早春系列"
+        }
+    ]
+}
